@@ -10,3 +10,4 @@ This project is part of our learning exercises for MIT's online course for Full 
 
 
 THIS EXERCISE COMPLIES WITH MIT LICENSE.
+<img src= "busesPositions.jpeg" width='300'/>
